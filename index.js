@@ -86,12 +86,10 @@ function writeKey(curr_btn) {
         
         case "%":
             press.value+="%";
-            special(s)
             break;
 
         case "π":
             press.value+="π";
-            special(s)
             break;
 
         case "=":
